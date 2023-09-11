@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tonko T",
+  "author": "Tonko Tomaš",
   "license": "ISC",
   "dependencies": {
     "webpack": "^5.88.2"
